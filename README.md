@@ -1,4 +1,4 @@
 # Amazon-Project
-using spring boot 
-mysql for databases
+Using spring boot, 
+Mysql for databases,
 Handling Business Exception.
